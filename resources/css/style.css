@@ -20,5 +20,12 @@ a {
 }
 
 p {
+  color: gray;
+  font-size: 21px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
   color: white;
 }
