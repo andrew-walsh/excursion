@@ -1,8 +1,20 @@
 body {
   text-align: center;
   background-color: black;
+  font-family: Verdana, sans-serif;
 }
 
 .copyright {
   text-align: right;
+}
+
+h1 {
+  color: white;
+  font-size 50px;
+  font-weight: normal;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
 }
